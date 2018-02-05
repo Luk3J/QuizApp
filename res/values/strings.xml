@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!-- Title text [CHAR LIMIT=20] -->
+    <string name="title">Science Quiz!</string>
+
+    <!-- Text for question 1 [CHAR LIMIT=NONE] -->
+    <string name="question_one">Q1. What is the legal limit for blood alcohol whilst driving in the UK?</string>
+
+    <!-- Question 1 answer text [CHAR LIMIT=20] -->
+    <string name="q1a">35ug/100mL</string>
+    <string name="q1b">80mg/dL</string>
+    <string name="q1c">107mg/dL</string>
+    <string name="q1d">300mg/dL</string>
+
+    <!-- Text for question 2 [CHAR LIMIT=NONE] -->
+    <string name="question_two">Q2. What does the acronym NSAID stand for?</string>
+
+    <!-- Question 2 answer text [CHAR LIMIT=50] -->
+    <string name="q2a">Nanosilver administered intra-dermally</string>
+    <string name="q2b">Nitroso-amphetamine injection device</string>
+    <string name="q2c">Neo-safety administration identification</string>
+    <string name="q2d">Non-steroidal anti-inflammatory</string>
+
+    <!-- Text for question 3 [CHAR LIMIT=NONE] -->
+    <string name="question_three">Q3. It is possible to overdose on water. True or false?</string>
+
+    <!-- Text for question 4 [CHAR LIMIT=NONE] -->
+    <string name="question_four">Q4. Which of the following are classed as drugs of abuse?</string>
+
+    <!-- Question 4 answer text [CHAR LIMIT=30] -->
+    <string name="q4a">Cocaine</string>
+    <string name="q4b">Paracetamol</string>
+    <string name="q4c">Diphenhydramine</string>
+    <string name="q4d">Mephedrone</string>
+
+    <!-- Text for question 5 [CHAR LIMIT=NONE] -->
+    <string name="question_five">Q5. What is the chemical name for alcohol?</string>
+
+    <!-- Text hint for EditText fields [CHAR LIMIT=30] -->
+    <string name="editTextHint">Answer here</string>
+
+    <!-- Text for question 6 [CHAR LIMIT=NONE] -->
+    <string name="question_six">Q6. What functional group appears in the image below?</string>
+
+    <!-- Question 6 answer text [CHAR LIMIT=20] -->
+    <string name="q6a">Aldehyde</string>
+    <string name="q6b">Ketone</string>
+    <string name="q6c">Carboxyl</string>
+    <string name="q6d">Alcohol</string>
+
+    <!-- Text for question 7 [CHAR LIMIT=NONE] -->
+    <string name="question_seven">Q7. Which of the following are symptoms of opiate overdose?</string>
+
+    <!-- Question 7 answer text [CHAR LIMIT=50] -->
+    <string name="q7a">Drowsiness</string>
+    <string name="q7b">Increased heart rate</string>
+    <string name="q7c">Respiratory depression</string>
+    <string name="q7d">Psychosis</string>
+
+    <!-- Text for question 8 [CHAR LIMIT=NONE] -->
+    <string name="question_eight">Q8. Alcohol can be used to treat methanol poisoning. True or false?</string>
+
+    <!-- Text for question 9 [CHAR LIMIT=NONE] -->
+    <string name="question_nine">Q9. What is the primary treatment for opiate/opioid overdose?</string>
+
+    <!-- Text for question 10 [CHAR LIMIT=NONE] -->
+    <string name="question_ten">Q10. What functional group appears in the image below?</string>
+
+    <!-- Question 10 answer text [CHAR LIMIT=20] -->
+    <string name="q10a">Nitrosamine</string>
+    <string name="q10b">Alkene</string>
+    <string name="q10c">Amide</string>
+    <string name="q10d">Phenol</string>
+
+    <!-- Text for buttons [CHAR LIMIT=12] -->
+    <string name="submit_button">Submit</string>
+    <string name="reset_button">Reset</string>
+
+    <!-- True/false question answer text [CHAR LIMIT=10] -->
+    <string name="radio_true">True</string>
+    <string name="radio_false">False</string>
+
+</resources>
